@@ -3,13 +3,12 @@
 This project reports the Random Number.
 ## Project Skeleton
 ```
-|
-|----readme.md          
+|    
 ├── public
 │     └── favicon.ico
 │     └── index.html
 │     └── manifest.json
-      └── robots.txt
+│     └── robots.txt
 ├── src
 │    ├── App.js
 │    ├── index.js
