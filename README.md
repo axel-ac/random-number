@@ -22,7 +22,7 @@ This project reports the Random Number.
 ## Project-gif
 ![randomNumber](https://github.com/axel-ac/random-number/assets/102467587/e3659307-dff5-45df-8e0c-872ea5b60605)
 ## Project-link
-
+https://random-number-reactjs-basic.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS
