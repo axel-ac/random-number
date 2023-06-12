@@ -6,12 +6,16 @@ This project reports the Random Number.
 |
 |----readme.md          
 ├── public
+│     └── favicon.ico
 │     └── index.html
-      └── logo.ico
+│     └── manifest.json
+      └── robots.txt
 ├── src
 │    ├── App.js
 │    ├── index.js
 │    └── styles.css
+├── gitignore
+├── README.md
 ├── package.json
 └── yarn.lock
 ```
